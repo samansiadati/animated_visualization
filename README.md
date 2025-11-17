@@ -13,7 +13,7 @@ The goal is to tell a clear story of major emitters (US, China, India) and highl
 ## Dataset
 We used the following dataset:
 
-- **Source:** [Kaggle – Global Fossil CO₂ Emissions by Country (2002–2022)](https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022?utm_source=chatgpt.com)
+- **Source:** [Kaggle – Global Fossil CO₂ Emissions by Country (2002–2022)](https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022)
 - **CSV filename:** `GCB2022v27_MtCO2_flat.csv`
 - **Key columns:** `Country`, `ISO 3166-1 alpha-3`, `Year`, `Total`, `Coal`, `Oil`, `Gas`, `Cement`, `Flaring`, `Other`, `Per Capita`
 
