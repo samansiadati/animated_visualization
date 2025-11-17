@@ -28,9 +28,6 @@ This chart allows users to:
 - Watch emissions grow dynamically year by year.
 - Compare trends for US, China, and India.
 
-**Saved as:** `co2_emissions_kaggle.html`
-
-![Plotly Screenshot](screenshot_plotly.png)
 
 ---
 
